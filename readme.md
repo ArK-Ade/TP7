@@ -37,6 +37,10 @@ Les identifiants enregistrés dans l'application sont les suivants :
     - etudiant
     - password
 
+Vous pouvez envoyer tous les paramètres en même temps.
+
+Exemple : - http://localhost:8888/index.py?name=Toto%20Titi&login=etudiant&password=password
+
 Pour plus d'informations, veillez-vous referer à la documentation du code
 
 ## Contact
