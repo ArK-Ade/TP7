@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/PycharmProjects/TP5/.idea/TP5 bdd.iml" filepath="$USER_HOME$/PycharmProjects/TP5/.idea/TP5 bdd.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/TP7 serveur et page web.iml" filepath="$PROJECT_DIR$/.idea/TP7 serveur et page web.iml" />
     </modules>
   </component>

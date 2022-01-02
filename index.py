@@ -10,10 +10,6 @@ login = "etudiant"
 print("Content-type: text/html; charset=utf-8\n")
 
 
-def header(title):
-    pass
-
-
 def footer():
     print("""
         </BODY>
